@@ -1,0 +1,40 @@
+h1{
+    font-family: 'Bebas Neue';
+    font-style: normal;
+    font-size: 80px;
+    font-weight: lighter;
+    line-height: 15px
+   
+
+}
+p{
+    color: #3E3E3E;
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-style: normal;
+    
+    
+
+}
+
+.main-head{
+    color: #ff8967;
+    
+    
+}
+.second{
+    color: #363958;
+}
+
+
+
+.first-portion{
+    width: 40%;
+    float: left;
+    margin-left: 8%;
+    padding-left: 2%;
+
+}
+.first-portion img{
+    width: 80%;
+}
