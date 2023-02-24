@@ -4,14 +4,25 @@ h1{
     font-size: 80px;
     font-weight: lighter;
     line-height: 15px
-   
 
 }
+h2{
+    color: #363958;
+    font-size: 60px;
+    font-family: 'Bebas Neue';
+    font-weight: lighter;
+    
+
+}
+
+
+
 p{
     color: #3E3E3E;
     font-family: 'Roboto';
     font-size: 20px;
     font-style: normal;
+    
     
     
 
@@ -26,6 +37,11 @@ p{
     color: #363958;
 }
 
+section{
+    height: 500px;
+    padding-bottom: 180px;
+}
+
 
 
 .first-portion{
@@ -37,4 +53,21 @@ p{
 }
 .first-portion img{
     width: 80%;
+}
+
+.link-button{
+    color: white;
+    text-decoration: none;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    padding: 10px 25px;
+    border-radius: 6px;
+
+
+}
+.link-buttons{
+    color: white;
+    text-decoration: none;
+    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    padding: 10px 25px;
+    border-radius: 6px;
 }
