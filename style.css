@@ -58,16 +58,8 @@ section{
 .link-button{
     color: white;
     text-decoration: none;
-    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
-    padding: 10px 25px;
-    border-radius: 6px;
-
-
-}
-.link-buttons{
-    color: white;
-    text-decoration: none;
-    background: linear-gradient(0deg, #FF8063 -28.33%, #F46060 95.83%);
+    background: #F46060;
+    background: linear-gradient(145deg, #FF8063 -28.33%, #F46060 95.83%);
     padding: 10px 25px;
     border-radius: 6px;
 }
