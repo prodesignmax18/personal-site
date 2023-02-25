@@ -1,3 +1,6 @@
+body{
+    margin: 0;
+}
 h1{
     font-family: 'Bebas Neue';
     font-style: normal;
@@ -12,9 +15,7 @@ h2{
     font-family: 'Bebas Neue';
     font-weight: lighter;
     
-
 }
-
 
 
 p{
@@ -23,15 +24,10 @@ p{
     font-size: 20px;
     font-style: normal;
     
-    
-    
-
 }
 
 .main-head{
-    color: #ff8967;
-    
-    
+    color: #ff8967;     
 }
 .second{
     color: #363958;
@@ -42,8 +38,6 @@ section{
     padding-bottom: 180px;
 }
 
-
-
 .first-portion{
     width: 40%;
     float: left;
@@ -52,7 +46,7 @@ section{
 
 }
 .first-portion img{
-    width: 80%;
+    width: 70%;
 }
 
 .link-button{
@@ -63,3 +57,42 @@ section{
     padding: 10px 25px;
     border-radius: 6px;
 }
+.first-box{
+    
+    height: 100%;
+    width: 100%;
+    padding-bottom: 500px;
+    background: #f1f1f1;
+    object-position: center;
+    
+}
+
+h3{
+    font-size: 24px;
+    font-family: Georgia;
+
+    
+
+}
+#first-portion{
+    text-align: center;
+}
+.experience-area{
+    
+    justify-content: center;
+    align-items: center;
+    background-position: center;
+    width: 370px;
+    height: 400px;
+    background: #FFFFFF;
+    box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+    border-radius: 19.7436px;
+    margin:  10 10px;
+    
+
+        
+
+
+}
+
+
